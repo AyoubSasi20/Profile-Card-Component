@@ -18,7 +18,7 @@ function App() {
       <div className="container">
         <div className="card">
           <div className="card-image">
-            <img src="src/assets/image.png" alt="Profile" />
+            <img src="image.png" alt="Profile" />
           </div>
           <div className="card-content">
             <h1>John Deo</h1>
